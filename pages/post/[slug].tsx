@@ -127,7 +127,7 @@ function PostP({post,comments}:Props) {
                 )) 
             }
             {
-                comms.length==0 && (<div>No Comments</div>)
+                // comms.length==0 && (<div>No Comments</div>)
             }
         </div>
     </div>

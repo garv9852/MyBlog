@@ -1,4 +1,3 @@
-import type { NextPage } from 'next'
 import Header from '../components/home/Header'
 import {sanityClient} from "../sanity"
 import {Post} from "../typings";
