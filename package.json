@@ -6,9 +6,14 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "latest",
+    "@sanity/client": "^3.4.1",
+    "@sanity/image-url": "^1.0.1",
+    "next": "^13.0.4",
+    "next-sanity": "^3.0.2",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.39.5",
+    "react-portable-text": "^0.5.1"
   },
   "devDependencies": {
     "@types/node": "18.11.3",
